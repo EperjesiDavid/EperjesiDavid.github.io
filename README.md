@@ -1,3 +1,3 @@
 # EperjesiDavid.github.io
 
-Leraning/demo page
+Learning/demo page
